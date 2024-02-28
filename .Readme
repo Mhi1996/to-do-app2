@@ -1,0 +1,8 @@
+Application Name: To do Application
+Backend: Mongoose
+Testing framework: mocha, chai
+Authentication: JWT
+Version tool: GIT
+Cloud platform: Heroku
+Framework: Express
+Password Encryption: bcrypt
